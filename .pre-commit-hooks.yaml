@@ -1,0 +1,12 @@
+- id: kl-check-links
+  name: Ensure local links are valid
+  entry: kl-check-links.py
+  language: script
+- id: kl-generate-index
+  name: Generate a Knowledge Lab _index.md file
+  entry: kl-generate-index.py
+  language: script
+- id: kl-sanitize
+  name: Sanitize character sets
+  entry: kl-sanitize.sh
+  language: script

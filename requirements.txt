@@ -1,0 +1,4 @@
+lxml
+markdown
+python-frontmatter
+pyupgrade
